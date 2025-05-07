@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="140" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
+<img align="right" height="160" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 ###
 
