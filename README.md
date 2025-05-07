@@ -4,7 +4,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
+<br clear="both">
+
+<img align="right" height="140" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 ###
 
@@ -15,12 +17,6 @@
 <br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soham794.soham794&left_color=navy"  />
 
 ###
 
@@ -43,7 +39,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="14" />
@@ -53,14 +49,18 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/soham794/soham794/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/soham794/soham794/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soham794.soham794&left_color=navy"  />
 
 ###
 
