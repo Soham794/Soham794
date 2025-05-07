@@ -4,15 +4,7 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soham794.soham794&left_color=navy"  />
 
 ###
 
@@ -23,6 +15,12 @@
 <br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soham794.soham794&left_color=navy"  />
 
 ###
 
