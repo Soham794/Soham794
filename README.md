@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left" style="padding-right:10px; margin-right:10px;">I'm Soham Belokar <br><br>A Computer Engineer, Fullstack Developer, Competitive Programmer and Computer & Technology enthusiasts... <br><br>- 🔭 I'm currently looking for engineering roles where I can learn and grow while contributing to create an impact<br>- 🧐 I'm a good problem solver and quick learner<br>- 📚 I'm currently learning to build quality, secure and scalable systems<br>- ⚡ In my free time I love jamming on my guitar 🎸</p>
+<p align="left" style="padding-right:50px; margin-right:50px;">I'm Soham Belokar <br><br>A Computer Engineer, Fullstack Developer, Competitive Programmer and Computer & Technology enthusiasts... <br><br>- 🔭 I'm currently looking for engineering roles where I can learn and grow while contributing to create an impact<br>- 🧐 I'm a good problem solver and quick learner<br>- 📚 I'm currently learning to build quality, secure and scalable systems<br>- ⚡ In my free time I love jamming on my guitar 🎸</p>
 
 ###
 
