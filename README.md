@@ -78,6 +78,11 @@
   <a href="https://www.codechef.com/users/soham794" target="_blank">
     <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="32" alt="CodeChef logo" > 
   </a>
+
+  <a href="https://leetcode.com/u/soham794/" target="_blank">
+<!--     <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="32" alt="CodeChef logo" >  -->
+    <i class="hgi hgi-twotone hgi-leetcode"></i>
+  </a>
   
 </div>
 
