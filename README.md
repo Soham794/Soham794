@@ -76,11 +76,11 @@
   </a>
 
   <a href="https://www.codechef.com/users/soham794" target="_blank">
-    <img src="https://www.iitdh.ac.in/sites/default/files/2023-09/AvadaCodavra.png" width="52" height="32" alt="CodeChef logo" > 
+    <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="52" height="32" alt="CodeChef logo" > 
   </a>
 
   <a href="https://leetcode.com/u/soham794/" target="_blank">
-    <img src="https://e7.pngegg.com/pngimages/321/952/png-clipart-self-balancing-binary-search-tree-binary-tree-online-judge-sina-weibo-qq-space-wechat-angle-hand.png" width="52" height="32" alt="CodeChef logo" > 
+    <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" width="52" height="32" alt="CodeChef logo" > 
   </a>
   
 </div>
