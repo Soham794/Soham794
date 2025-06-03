@@ -76,12 +76,11 @@
   </a>
 
   <a href="https://www.codechef.com/users/soham794" target="_blank">
-    <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="32" alt="CodeChef logo" > 
+    <img src="[https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGktMNeXoyuzKXV36h9COKJP4WubyoO6Oc4Lq-ufXjR0bakZux8w9Nbv5uRPY8CAOKvZk&usqp=CAU)" width="52" height="32" alt="CodeChef logo" > 
   </a>
 
   <a href="https://leetcode.com/u/soham794/" target="_blank">
-<!--     <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="32" alt="CodeChef logo" >  -->
-    <i class="hgi hgi-twotone hgi-leetcode"></i>
+    <img src="https://image.pngaaa.com/118/4868118-middle.png" width="52" height="32" alt="CodeChef logo" > 
   </a>
   
 </div>
