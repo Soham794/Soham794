@@ -80,7 +80,7 @@
   </a>
 
   <a href="https://leetcode.com/u/soham794/" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" width="52" height="32" alt="CodeChef logo" > 
+    <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png" width="52" height="32" alt="Leetcode logo" > 
   </a>
   
 </div>
